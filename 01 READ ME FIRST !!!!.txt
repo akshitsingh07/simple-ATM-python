@@ -1,0 +1,16 @@
+SIMPLE ATM SYSTEM IN PYTHON
+
+
+Login Details:
+
+Name: akshit singh
+
+Pin number : 1234
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+
+
+THANK YOU FOR DOWNLOADING :) 
